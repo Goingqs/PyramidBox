@@ -10,7 +10,7 @@ AP Easy | AP Medium | AP Hard
 --------|-----------|---------
   95.3  |    94.3   |  89.0   
 
-The trained models will be released later.
+The trained model will be released later.
 
 
 ## Usage
