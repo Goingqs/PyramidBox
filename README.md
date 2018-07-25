@@ -12,13 +12,14 @@ AP Easy | AP Medium | AP Hard
 
 The trained models will be released later.
 
-##Usage
-###Prerequisites
+
+## Usage
+### Prerequisites
 *Python3
 *Pytorch3.1
 *OpenCV3
 
-###annoPath
+### annoPath
 annoPath is path to your label file.
 The label file should in the following format:
 path_to_img1 num_face1 X1 Y1 W1 H1 X2 Y2 ... Wn1 Hn1
