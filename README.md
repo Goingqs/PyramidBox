@@ -10,7 +10,11 @@ AP Easy | AP Medium | AP Hard
 --------|-----------|---------
   95.3  |    94.3   |  89.0   
 
-The trained model will be released later.
+## My model is released now!
+
+You can download [model](https://pan.baidu.com/s/1tSys4yfvKEJVZcxTLzNbUw) from Baidu!
+
+With the model and test.py, you can get the same result on WIDER FACE Val set!
 
 
 ## Usage
