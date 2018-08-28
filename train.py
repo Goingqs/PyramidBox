@@ -189,6 +189,7 @@ def train():
         loss_l_head, loss_c_head = criterion(tuple(out[3:6]), targets)
         
         loss = loss_l + loss_c + 0.5 * loss_l_head + 0.5 * loss_c_head
+        loss.backward()
         optimizer.step()
         t2 = time.time()
         loc_loss += loss_l.data[0]
